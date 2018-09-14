@@ -15,7 +15,7 @@
 9.  Routing (with [Redux](https://github.com/reactjs/react-router-redux)).
 10. Linting, [eslint](https://eslint.org/) and [prettier](https://github.com/prettier/prettier).
 11. Code style, [BabelJS](https://babeljs.io).
-12. Best practices.
+12. Best practices. [Typical React app mistakes and errors](https://habr.com/post/416511/).
 13. UI testing, [Jest](https://facebook.github.io/jest/), [Enzyme](https://github.com/airbnb/enzyme).
 14. Javascript [event loop](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4), ([video](https://www.youtube.com/watch?v=8aGhZQkoFbQ)).
 
