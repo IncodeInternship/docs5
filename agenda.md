@@ -7,7 +7,7 @@
 1.  [Git](https://git-scm.com/).
 2.  [ReactJS](https://reactjs.org/), [lifecycle methods](https://twitter.com/dan_abramov/status/981712092611989509).
 3.  [Material-UI](https://material-ui.com/), [Material Dashboard React - Free Material-UI Design Admin](https://github.com/creativetimofficial/material-dashboard-react).
-4.  [ReduxJS](https://redux.js.org/).
+4.  [ReduxJS](https://redux.js.org/), [short video tutorial](https://www.youtube.com/watch?v=oD3miHerQbY).
 5.  [Redux Thunk](https://github.com/reduxjs/redux-thunk).
 6.  [Create React App (CRA)](https://github.com/facebook/create-react-app).
 7.  Folder structure.
