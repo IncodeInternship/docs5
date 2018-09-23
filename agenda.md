@@ -13,7 +13,7 @@
 7.  Folder structure.
 8.  [Reselect](https://github.com/reduxjs/reselect).
 9.  Routing (with [Redux](https://github.com/reactjs/react-router-redux)).
-10. Linting, [eslint](https://eslint.org/) and [prettier](https://github.com/prettier/prettier).
+10. Linting, [eslint](https://eslint.org/) and [prettier](https://github.com/prettier/prettier), [Standard](https://github.com/standard/standard), [stylelint](https://github.com/stylelint/stylelint).
 11. Code style, [BabelJS](https://babeljs.io).
 12. Best practices. [Typical React app mistakes and errors](https://habr.com/post/416511/).
 13. UI testing, [Jest](https://facebook.github.io/jest/), [Enzyme](https://github.com/airbnb/enzyme).
