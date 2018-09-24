@@ -23,7 +23,7 @@
 
 ### Backend application, NodeJS + MongoDB
 
-1.  [NodeJS](https://nodejs.org/en/), [NVM](https://github.com/creationix/nvm).
+1.  [NodeJS](https://nodejs.org/en/), [NVM](https://github.com/creationix/nvm), [video tutorial](https://www.youtube.com/watch?v=o3ka5fYysBM).
 2.  [ExpressJS](https://expressjs.com/).
 3.  [Routing](https://expressjs.com/en/guide/routing.html), [middlewares](https://expressjs.com/en/guide/writing-middleware.html).
 4.  [MongoDB](https://www.mongodb.com/), [Mongoose](http://mongoosejs.com/).
